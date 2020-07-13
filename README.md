@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p>I'm a Mechatronics engineer, software engineer and project manager.</p>
+							<p>I live in Mexico City, currently working as a Web, M2M & IoT developer and consultant.</p>
+							<p>My interests range from software development to industrial and home automation. I'm also interested in entrepreneurship, innovation, and technology.</p> 
+              
 <!--
 **Rufistofeles/rufistofeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
