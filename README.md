@@ -55,7 +55,7 @@ I've been doing this professionally since 2015:
 
 I'm a mechatronics engineer who writes C#. That isn't two careers — it's one.
 
-My first real system controlled the lights in my mother's house over the electrical wiring, because she has knee osteoarthritis and the switch was across the room. Every project since has been the same problem at a larger scale: **get a signal through a channel that wasn't built for it, and prove on the other side that it arrived intact.** Lights over the mains. Machines over OPC UA. Now tokens over HTTP.
+My first real system controlled the lights in my mother's house over the electrical wiring, because she has knee osteoarthritis and the switch was across the room ([firmware](https://github.com/Rufistofeles/Arduino) · [web app](https://github.com/Rufistofeles/Django), 2014). Every project since has been the same problem at a larger scale: **get a signal through a channel that wasn't built for it, and prove on the other side that it arrived intact.** Lights over the mains. Machines over OPC UA. Now tokens over HTTP.
 
 ---
 
