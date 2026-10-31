@@ -48,4 +48,4 @@ My first real system controlled the lights in my mother's house over the electri
 ---
 
 **Open to .NET engineering roles.**
-📫 [rafael@rufistofeles.dev](mailto:rafael@rufistofeles.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/rufistofeles) · 🌐 [rufistofeles.dev](https://rufistofeles.dev) · 🐦 [@Rufistofeles](https://twitter.com/Rufistofeles)
+📫 [rafael@rufistofeles.dev](mailto:rafael@rufistofeles.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/rufistofeles) · 🌐 [rufistofeles.dev](https://rufistofeles.dev)
