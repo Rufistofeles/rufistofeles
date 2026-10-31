@@ -25,6 +25,24 @@ OAuth 2.0 / OpenID Connect identity server on **.NET 10**. Duende priced Identit
 
 ---
 
+## 🏭 Aspire.Hosting.OpcUa — a factory floor in your Aspire dashboard
+
+[![NuGet](https://img.shields.io/nuget/v/Rufistofeles.Aspire.Hosting.OpcUa)](https://www.nuget.org/packages/Rufistofeles.Aspire.Hosting.OpcUa)
+
+A live OPC UA server in your .NET Aspire app model. One line, no PLC required — so industrial clients can be tested in CI without a factory.
+
+```csharp
+builder.AddOpcUaPlc("plc");
+```
+
+- Wraps Microsoft's `opc-plc` simulator, image tag pinned so an upstream release can't change your test results
+- Verified end to end against a running container before 1.0.0 shipped
+- AGPL-3.0 + commercial
+
+**→ [github.com/RufistofelesDev/Aspire.Hosting.OpcUa](https://github.com/RufistofelesDev/Aspire.Hosting.OpcUa)**
+
+---
+
 ## Not a side project
 
 I've been doing this professionally since 2015:
